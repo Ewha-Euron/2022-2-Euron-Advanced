@@ -44,6 +44,8 @@
 
 * [CS224W](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) 강의 스터디 
 
+* [CS224W 강의자료](http://snap.stanford.edu/class/cs224w-2020/) Winter 2021 버전 
+
 | 주차 | 날짜 | 내용 | 발표자 | 발표 자료|
 |---|---|---|---|---|
 |1|22/09/16|OT|이다현| [📚]()
@@ -65,8 +67,8 @@
 |17|23/01/06| 10. Knowledge Graph Embeddings  |이다현, 최하경 | [📚]()
 |18|23/01/13| 11. Reasoning over Knowledge Graphs |최지우, 최예은 | [📚]()
 |19|23/01/20| 12. Frequent Subgraph Mining with GNNs |김나현, 이은빈 | [📚]()
-|20|23/01/27| 13. GNNs for Recommender Systems |이다현, 최하경 | [📚]()
-|21|23/02/03| 14. Community Structure in Networks |최지우, 최예은 | [📚]()
+|20|23/01/27| 13. Community Structure in Networks |이다현, 최하경 | [📚]()
+|21|23/02/03| 14. Traditional Generative Models for Graphs |최지우, 최예은 | [📚]()
 |22|23/02/10| 15. Deep Generative Models for Graphs |김나현, 이은빈 | [📚]()
 |23|23/02/17| 16. Advanced Topics on GNNs |이다현, 최하경, 최지우 | [📚]()
 |24]|23/02/21| 17. Scaling Up GNNs |최예은, 김나현, 이은빈 | [📚]()

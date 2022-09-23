@@ -50,7 +50,7 @@
 | 주차 | 날짜 | 내용 | 발표자 | 발표 자료|
 |---|---|---|---|---|
 |1|22/09/16|OT|이다현| [📚]()
-|2|22/09/23|1. Introduction; Machine Learning for Graphs | 이다현, 최하경| [📚]()
+|2|22/09/23|1. Introduction; Machine Learning for Graphs | 이다현, 최하경| [📚](https://github.com/Ewha-Euron/2022-2-Euron-Advanced/blob/73f074ef648c26bbbaf03e46ffc3238338e22083/DL/%5BDL%5D%201%EC%A3%BC%EC%B0%A8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 |3|22/09/30|2. Traditional Methods for ML on Graphs |최지우, 최예은 | [📚]()
 |4|22/10/07|3. Node Embeddings |김나현, 이은빈 | [📚]()
 |5|22/10/14| 중간고사 휴식기간 - 논문 리뷰 준비 |-| [📚]()

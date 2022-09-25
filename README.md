@@ -6,6 +6,7 @@
 ### Curriculum
 * [딥러닝 파이토치 교과서](https://thebook.io/080289/) 교재 스터디
 * [딥러닝 파이토치 교과서 예제코드](https://github.com/gilbutITbook/080289)
+* 참고 자료 : [Pytorch로 시작하는 딥러닝 입문](https://wikidocs.net/book/2788)
 
 | 주차 | 날짜 | 내용 | 발표자 | 발표 자료|
 |---|---|---|---|---|

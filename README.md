@@ -21,7 +21,7 @@
 
 1. 딥러닝 파이토치 교과서 4장 코드 필사
 
-2. (선택) [코드구현](ML/[ML] 3주차 (2주차 내용) 복습과제.ipynb)
+2. (선택) [코드구현](https://github.com/Ewha-Euron/2022-2-Euron-Advanced/blob/a96c4ae08f5d8d4b7cf68b2b911b5bdd15e9d2d8/ML/%5BML%5D%203%EC%A3%BC%EC%B0%A8%20(2%EC%A3%BC%EC%B0%A8%20%EB%82%B4%EC%9A%A9)%20%EB%B3%B5%EC%8A%B5%EA%B3%BC%EC%A0%9C.ipynb)
 
 * 궁금한 사항/공유하면 좋을 추가 자료 등 복습한 내용은 2주차 세션 발표 이후 10분동안, 랜덤으로 한 명을 뽑아 발표를 진행 할 예정입니다. 
 

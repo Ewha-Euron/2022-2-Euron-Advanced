@@ -24,8 +24,8 @@
 1. Object detection에서 성능이 좋은 [Yolo v2](https://paperswithcode.com/paper/yolo9000-better-faster-stronger) 논문을 읽어오시면 됩니다.
     - 모델의 아키텍쳐와 성능 향상을 위한 추가적인 방법들에 초점을 맞춰 간단히 읽어오시면 됩니다.
     - 참고 사이트
-      [Yolo v2 논문 리뷰 사이트](https://herbwood.tistory.com/17)
-      [Yolo v2, v3 논문 리뷰 사이트](https://velog.io/@minkyu4506/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-YOLOv2-YOLOv3-%EB%A6%AC%EB%B7%B0)
+      * [Yolo v2 논문 리뷰 사이트](https://herbwood.tistory.com/17)
+      * [Yolo v2, v3 논문 리뷰 사이트](https://velog.io/@minkyu4506/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-YOLOv2-YOLOv3-%EB%A6%AC%EB%B7%B0)
 
 
 

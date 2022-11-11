@@ -1,6 +1,6 @@
-## EURON 3기 심화학습 팀 - 8주차
+## EURON 3기 심화학습 팀 - 9주차
 
-* 11 월 11일 
+* 11 월 18일 
 
 <details>
 <summary>ML</summary>

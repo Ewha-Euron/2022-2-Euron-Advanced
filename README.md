@@ -50,7 +50,7 @@
   
 * 8주차 내용 복습과제
 
-[iteravice classification](https://github.com/adriannaziel/CollectiveClassification_ICA/blob/master/ICA.ipynb) 개념 복습 및 코드 분석하기 
+[iteravice classification 구현 코드 사이트](https://github.com/adriannaziel/CollectiveClassification_ICA/blob/master/ICA.ipynb) 개념 복습 및 코드 분석하기 
 
 ↪ 개인 코드라 로컬 컴퓨터에서 온전히 실행될지는 불분명하나, 강의에서 배웠던 을 코드로 구현하는 과정에 초점을 두어 복습하시면 좋을 것 같습니다 :) 
   

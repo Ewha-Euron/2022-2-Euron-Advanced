@@ -46,9 +46,9 @@
 | 11   |  |   | [📚]()    |
 
   
-* 9주차 내용 복습과제
+* 10주차 내용 복습과제
 
-[GNN1](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/06-graph-neural-networks-1-gnn-model.ipynb) 개념 복습 및 코드 필사/분석하기 
+ 개념 복습 및 코드 필사/분석하기 
 
   
 </div>

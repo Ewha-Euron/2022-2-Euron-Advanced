@@ -21,7 +21,7 @@
 
 ### 📍 복습과제
 
-   * [Bidirectional LSTM Network를 이용한 PoS Tagging](https://ws-choi.github.io/blog-kor/nlp/deeplearning/Pos-Tagging-with-Bidirectional-LSTM/) 코드 필사/
+   * [Bidirectional LSTM Network를 이용한 PoS Tagging](https://ws-choi.github.io/blog-kor/nlp/deeplearning/Pos-Tagging-with-Bidirectional-LSTM/) 코드 필사/분석
 
 
 

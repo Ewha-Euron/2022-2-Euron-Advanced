@@ -46,7 +46,7 @@
 | 11   | 8. Applications of Graph Neural Networks | 최지우, 최하경  | [📚]()    |
 
   
-* 10주차 내용 복습과제
+10주차 내용 복습과제
 
  * 필수 : [GAT](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/07-graph-neural-networks-2-design-space.ipynb) 개념 복습 및 코드 필사/분석하기 
  * 선택 : [GAT Cora dataset ex](https://github.com/gordicaleksa/pytorch-GAT/blob/main/The%20Annotated%20GAT%20(Cora).ipynb) 개념 복습 및 코드 필사/분석하기 

@@ -42,7 +42,9 @@
 | 15   | 논문 발표 |  | [📚]()    |
 
   
-10주차 내용 복습과제
+### 📍복습과제
+  
+  * [Applications of GNN](https://github.com/mnslarcher/cs224w-slides-to-code/blob/main/notebooks/08-applications-of-graph-neural-networks.ipynb) 개념 복습 및 필사
 
  
   

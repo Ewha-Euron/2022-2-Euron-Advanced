@@ -72,6 +72,5 @@
 |20|23/01/27| 13. Community Structure in Networks |이다현 | [📚]()
 |21|23/02/03| 14. Traditional Generative Models for Graphs |최지우, 최예은 | [📚]()
 |22|23/02/10| 15. Deep Generative Models for Graphs |김나현, 이은빈 | [📚]()
-|23|23/02/17| 16. Advanced Topics on GNNs |이다현, 최지우 | [📚]()
-|24]|23/02/21| 17. Scaling Up GNNs |최예은, 김나현, 이은빈 | [📚]()
+
 

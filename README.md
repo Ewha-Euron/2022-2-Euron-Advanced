@@ -46,7 +46,7 @@
 
 * [CS224W](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) 강의 스터디 
 
-* [CS224W 강의자료](http://snap.stanford.edu/class/cs224w-2020/) Winter 2021 버전 
+
 
 | 주차 | 날짜 | 내용 | 발표자 | 발표 자료|
 |---|---|---|---|---|

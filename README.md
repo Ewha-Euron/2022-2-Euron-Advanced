@@ -1,4 +1,4 @@
-* 18주차 
+▢ 18주차 
 
 <details>
 <summary>DL</summary>
@@ -11,17 +11,22 @@
 | 18   |   Frequent Subgraph Mining with GNNs	| 김나현, 이은빈  | [📚]()    |
 
   
-### 📍 복습과제
+#### 📍 복습과제
+
+awesome KG reasoing 깃허브에서 최신동향 파악 및 논문읽어보기 
   
-  *  
+  * [필수과제](https://colab.research.google.com/drive/1-sjqQZhYrGM0HiMuaqXOiqhDNlJi7g_I?usp=sharing#scrollTo=BFmpTG8ccZQJ)
+  * [선택과제](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)
  
+<br/><br/> 
+
   
 </div>
 </details>
 
+<br/>
 
-
-* 19주차 
+▢ 19주차 
 
 <details>
 <summary>DL</summary>
@@ -42,9 +47,9 @@
 </div>
 </details>
 
+<br/>
 
-
-* 20주차 
+▢ 20주차 
 
 <details>
 <summary>DL</summary>
@@ -65,10 +70,10 @@
 </div>
 </details>
 
+<br/>
 
 
-
-* 21주차 
+▢ 21주차 
 
 <details>
 <summary>DL</summary>

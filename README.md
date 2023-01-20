@@ -68,8 +68,8 @@
 |17|23/01/06| 10. Knowledge Graph Embeddings  |이다현 | [📚]()
 |18|23/01/13| 11. Reasoning over Knowledge Graphs |최지우, 최예은 | [📚]()
 |19|23/01/20| 12. Frequent Subgraph Mining with GNNs |김나현, 이은빈 | [📚]()
-|20|23/01/27| 13. Community Structure in Networks |이다현 | [📚]()
-|21|23/02/03| 14. Traditional Generative Models for Graphs |최지우, 최예은 | [📚]()
-|22|23/02/10| 15. Deep Generative Models for Graphs |김나현, 이은빈 | [📚]()
+|20|23/01/25| 13. Community Structure in Networks |이다현 | [📚]()
+|21|23/01/27| 14. Traditional Generative Models for Graphs |최지우, 최예은 | [📚]()
+|22|23/02/01| 15. Deep Generative Models for Graphs |이다현 | [📚]()
 
 

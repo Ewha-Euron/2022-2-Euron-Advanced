@@ -41,7 +41,7 @@ awesome KG reasoing 깃허브에서 최신동향 파악 및 논문읽어보기
   
 ### 📍 복습과제
   
-  *  
+  * [gspan_mining 폴더 및 main.ipynb 필사](https://github.com/betterenvi/gSpan)
  
   
 </div>

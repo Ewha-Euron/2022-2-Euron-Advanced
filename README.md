@@ -88,7 +88,7 @@ awesome KG reasoing 깃허브에서 최신동향 파악 및 논문읽어보기
   
 ### 📍 복습과제
   
-  *  
+  *  [코드필사](https://colab.research.google.com/drive/1lrCeGtVgxRQMmNk3UEnxR1XtRfBD7elH?usp=sharing)
  
   
 </div>
